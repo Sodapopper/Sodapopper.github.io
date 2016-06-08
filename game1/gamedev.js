@@ -8,9 +8,6 @@ $("#bananaman3").hide();
 $("#bananaman4").hide();
 $("#bananaman5").hide();
 $("#bananaman61").hide();
-$("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 
 $("#startpage").click(function() {
   $("#bananaman1").show();
@@ -28,9 +25,6 @@ $("#stage1button1l").click(function() {
   $("#bananaman4").hide();
    $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage1button3d").click(function() {
@@ -40,9 +34,6 @@ $("#stage1button3d").click(function() {
   $("#bananaman4").hide();
       $("#bananaman5").show();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage1button4u").click(function() {
@@ -52,9 +43,6 @@ $("#stage1button4u").click(function() {
   $("#bananaman4").hide();
       $("#bananaman5").hide();
 $("#bananaman61").show();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage1button2r").click(function() {
@@ -64,9 +52,6 @@ $("#stage1button2r").click(function() {
   $("#bananaman4").hide();
          $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage2button2r").click(function() {
@@ -76,9 +61,6 @@ $("#stage2button2r").click(function() {
   $("#bananaman4").hide();
            $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
    
 });
 
@@ -89,22 +71,8 @@ $("#stage2button1l").click(function() {
   $("#bananaman4").show();
       $("#bananaman5").hide();
   $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
-$("#stage2button4u").click(function() {
-  $("#bananaman2").hide();
-  $("#bananaman1").hide();
-  $("#bananaman3").hide();
-  $("#bananaman4").hide();
-   $("#bananaman5").hide();
- $("#bananaman61").hide();
-   $("#bananaman62").show();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
-});
 
 
 
@@ -116,9 +84,6 @@ $("#stage3button2r").click(function() {
   $("#bananaman4").show();
            $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage3button1l").click(function() {
@@ -128,9 +93,6 @@ $("#stage3button1l").click(function() {
   $("#bananaman4").hide();
            $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage4button1l").click(function() {
@@ -140,9 +102,6 @@ $("#stage4button1l").click(function() {
   $("#bananaman4").hide();
            $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 $("#stage4button2r").click(function() {
@@ -152,9 +111,6 @@ $("#stage4button2r").click(function() {
   $("#bananaman4").hide();
            $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 
@@ -166,40 +122,30 @@ $("#stage5button2r").click(function() {
   $("#bananaman4").hide();
    $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 
 
-$("#stage6button3d").click(function() {
+$("#stage61button3d").click(function() {
   $("#bananaman2").hide();
   $("#bananaman1").show();
   $("#bananaman3").hide();
   $("#bananaman4").hide();
    $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
 
 
 
-
-
-
-$("#stagebutton1l").click(function() {
-  $("#bananaman2").show();
-  $("#bananaman1").hide();
+$("#stage5button4u").click(function() {
+  $("#bananaman2").hide();
+  $("#bananaman1").show();
   $("#bananaman3").hide();
   $("#bananaman4").hide();
    $("#bananaman5").hide();
 $("#bananaman61").hide();
-   $("#bananaman62").hide();
-$("#bananaman63").hide();
-$("#bananaman64").hide();
 });
+
+
 //closes
 });
