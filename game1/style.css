@@ -58,8 +58,40 @@ a.button:hover {
   height: 450px;
 }
 
+#bananaman61 {
+  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+#bananaman62 {
+  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+
+#bananaman63 {
+  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+#bananaman64 {
+  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+  width: 900px;
+  height: 450px;
+}
+
 #bananaman2 {
   background-image: url("http://www.avadesignbuild.com/img/bath/bath4b.png");
+  width: 900px;
+  height: 450px;
+}
+
+
+#bananaman5 {
+  background-image: url("http://i.imgur.com/ZJHAiUT.png");
   width: 900px;
   height: 450px;
 }
@@ -146,7 +178,7 @@ a.button:hover {
 }
 
 #startpage {
-  background-image: url("http://i.imgur.com/igEYjw4.jpg");
+  background-color:blue;
   width: 900px;
   height: 450px;
 }
@@ -171,3 +203,34 @@ a.button:hover {
 #stage5button4u {
   position: absolute;
   left: 450px;
+  top: 2px;
+}
+
+
+
+
+
+
+#stage61button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+
+#stage62button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+
+#stage63button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+
+#stage64button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
