@@ -1,0 +1,173 @@
+body {
+
+    background-image: url("http://science-all.com/images/wallpapers/background-image/background-image-8.jpg");
+    background-size: cover;
+    background-position: center center;
+    font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+    margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+    color: #fff;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+.button {
+    border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #abc;
+    box-shadow: 15px 15px 80px #555;
+}
+a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#bananaman1 {
+  background-image: url("http://i.imgur.com/DCaFwYK.png");
+  width: 900px;
+  height: 450px;
+}
+
+
+#bananaman4 {
+  background-image: url("http://nacelesl.co.uk/wp-content/uploads/2016/01/NacelESL-Residence-Tufnell-House-tp_kitchen.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+#bananaman3 {
+  background-image: url("https://foyrproductionimages.s3.amazonaws.com/products%2FJFSTB111116C%2Fmrtp%2FFurniture-Storage-Bookshelves-Square-Spiral-Bookshelf-in-Plywood-Yellow-JFSTB111116C.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+#bananaman2 {
+  background-image: url("http://www.avadesignbuild.com/img/bath/bath4b.png");
+  width: 900px;
+  height: 450px;
+}
+
+#stage1button1l {
+  position: absolute;
+  left: 0px;
+  top: 235px;
+}
+
+#stage1button2r {
+  position: absolute;
+  left: 900px;
+  top: 235px;
+}
+#stage1button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+#stage1button4u {
+  position: absolute;
+  left: 450px;
+  top: 2px;
+}
+
+#stage2button1l {
+  position: absolute;
+  left: 0px;
+  top: 235px;
+}
+
+
+#stage2button2r {
+  position: absolute;
+  left: 900px;
+  top: 235px;
+}
+
+#stage2button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+#stage2button4u {
+  position: absolute;
+  left: 450px;
+  top: 2px;
+}
+
+
+#stage3button1l {
+  position: absolute;
+  left: 0px;
+  top: 235px;
+}
+
+#stage3button2r {
+  position: absolute;
+  left: 900px;
+  top: 235px;
+}
+
+#stage3button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+#stage4button4u {
+  position: absolute;
+  left: 450px;
+  top: 2px;
+}
+#stage4button1l {
+  position: absolute;
+  left: 0px;
+  top: 235px;
+}
+
+#stage4button2r {
+  position: absolute;
+  left: 900px;
+  top: 235px;
+}
+
+#startpage {
+  background-image: url("http://i.imgur.com/igEYjw4.jpg");
+  width: 900px;
+  height: 450px;
+}
+
+
+#stage5button1l {
+  position: absolute;
+  left: 0px;
+  top: 235px;
+}
+
+#stage5button2r {
+  position: absolute;
+  left: 900px;
+  top: 235px;
+}
+#stage5button3d {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+#stage5button4u {
+  position: absolute;
+  left: 450px;
