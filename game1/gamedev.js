@@ -201,3 +201,5 @@ $("#bananaman61").hide();
 $("#bananaman63").hide();
 $("#bananaman64").hide();
 });
+//closes
+});
