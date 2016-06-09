@@ -152,6 +152,21 @@ $("#towel").click(function() {
    alert("You got the TOWEL! Keep track of what you've got!")
 });
 
+$("#shoe").click(function() {
+   alert("You got the SHOE! Keep track of what you've got!")
+});
+
+$("#light").click(function() {
+   alert("You got the LIGHT! Keep track of what you've got!")
+});
+
+$("#card").click(function() {
+   alert("You got the CARD! Keep track of what you've got!")
+});
+
+$("#coffee").click(function() {
+   alert("You got the COFFEE! Keep track of what you've got!")
+});
 
 //closes
 });

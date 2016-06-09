@@ -38,196 +38,225 @@ a.button:hover {
 
 
 /*Stuff below governs the Explore screen*/
-
 #bananaman1 {
-  background-image: url("http://i.imgur.com/DCaFwYK.png");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://i.imgur.com/DCaFwYK.png");
+   width: 900px;
+   height: 450px;
 }
 
-
 #bananaman4 {
-  background-image: url("http://nacelesl.co.uk/wp-content/uploads/2016/01/NacelESL-Residence-Tufnell-House-tp_kitchen.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://nacelesl.co.uk/wp-content/uploads/2016/01/NacelESL-Residence-Tufnell-House-tp_kitchen.jpg");
+   width: 900px;
+   height: 450px;
 }
 
 #bananaman3 {
-  background-image: url("https://foyrproductionimages.s3.amazonaws.com/products%2FJFSTB111116C%2Fmrtp%2FFurniture-Storage-Bookshelves-Square-Spiral-Bookshelf-in-Plywood-Yellow-JFSTB111116C.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("https://foyrproductionimages.s3.amazonaws.com/products%2FJFSTB111116C%2Fmrtp%2FFurniture-Storage-Bookshelves-Square-Spiral-Bookshelf-in-Plywood-Yellow-JFSTB111116C.jpg");
+   width: 900px;
+   height: 450px;
 }
 
 #bananaman61 {
-  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+   width: 900px;
+   height: 450px;
 }
 
 #bananaman62 {
-  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+   width: 900px;
+   height: 450px;
 }
 
-
 #bananaman63 {
-  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+   width: 900px;
+   height: 450px;
 }
 
 #bananaman64 {
-  background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://red-dot-21.com/wp-content/uploads/2013/06/circle-of-light.jpg");
+   width: 900px;
+   height: 450px;
 }
 
 #bananaman2 {
-  background-image: url("http://www.avadesignbuild.com/img/bath/bath4b.png");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://www.avadesignbuild.com/img/bath/bath4b.png");
+   width: 900px;
+   height: 450px;
 }
 
-
 #bananaman5 {
-  background-image: url("http://i.imgur.com/ZJHAiUT.png");
-  width: 900px;
-  height: 450px;
+   background-image: url("http://i.imgur.com/ZJHAiUT.png");
+   width: 900px;
+   height: 450px;
 }
 
 #stage1button1l {
-  position: absolute;
-  left: 0px;
-  top: 235px;
+   position: absolute;
+   left: 0px;
+   top: 235px;
 }
 
 #stage1button2r {
-  position: absolute;
-  left: 900px;
-  top: 235px;
+   position: absolute;
+   left: 900px;
+   top: 235px;
 }
+
 #stage1button3d {
-  position: absolute;
-  left: 450px;
-  top: 450px;
+   position: absolute;
+   left: 450px;
+   top: 450px;
 }
+
 #stage1button4u {
-  position: absolute;
-  left: 450px;
-  top: 2px;
+   position: absolute;
+   left: 450px;
+   top: 2px;
 }
 
 #stage2button1l {
-  position: absolute;
-  left: 0px;
-  top: 235px;
+   position: absolute;
+   left: 0px;
+   top: 235px;
 }
 
-
 #stage2button2r {
-  position: absolute;
-  left: 900px;
-  top: 235px;
-   
+   position: absolute;
+   left: 900px;
+   top: 235px;
 }
 
 #stage2button3d {
-  position: absolute;
-  left: 450px;
-  top: 450px;
-}
-#stage2button4u {
-  position: absolute;
-  left: 450px;
-  top: 2px;
+   position: absolute;
+   left: 450px;
+   top: 450px;
 }
 
+#stage2button4u {
+   position: absolute;
+   left: 450px;
+   top: 2px;
+}
 
 #stage3button1l {
-  position: absolute;
-  left: 0px;
-  top: 235px;
+   position: absolute;
+   left: 0px;
+   top: 235px;
 }
 
 #stage3button2r {
-  position: absolute;
-  left: 900px;
-  top: 235px;
+   position: absolute;
+   left: 900px;
+   top: 235px;
 }
 
 #stage3button3d {
-  position: absolute;
-  left: 450px;
-  top: 450px;
+   position: absolute;
+   left: 450px;
+   top: 450px;
 }
+
 #stage4button4u {
-  position: absolute;
-  left: 450px;
-  top: 2px;
+   position: absolute;
+   left: 450px;
+   top: 2px;
 }
+
 #stage4button1l {
-  position: absolute;
-  left: 0px;
-  top: 235px;
+   position: absolute;
+   left: 0px;
+   top: 235px;
 }
 
 #stage4button2r {
-  position: absolute;
-  left: 900px;
-  top: 235px;
+   position: absolute;
+   left: 900px;
+   top: 235px;
 }
 
 #startpage {
-  background-color:blue;
-  width: 900px;
-  height: 450px;
+   background-color: blue;
+   width: 900px;
+   height: 450px;
 }
 
-
 #stage5button1l {
-  position: absolute;
-  left: 0px;
-  top: 235px;
+   position: absolute;
+   left: 0px;
+   top: 235px;
 }
 
 #stage5button2r {
-  position: absolute;
-  left: 900px;
-  top: 235px;
+   position: absolute;
+   left: 900px;
+   top: 235px;
 }
+
 #stage5button3d {
-  position: absolute;
-  left: 450px;
-  top: 450px;
+   position: absolute;
+   left: 450px;
+   top: 450px;
 }
+
 #stage5button4u {
-  position: absolute;
-  left: 450px;
-  top: 2px;
+   position: absolute;
+   left: 450px;
+   top: 2px;
 }
-
-
-
-
-
 
 #stage61button3d {
-  position: absolute;
-  left: 450px;
-  top: 450px;
+   position: absolute;
+   left: 450px;
+   top: 450px;
 }
-
-
-
 
 #towel {
-  position: absolute;
-  left: 500px;
-  top: 80px;
-  width: 80px;
-  height: 120px;
-  background-color:Transparent;
-  border-color:Transparent;
+   position: absolute;
+   left: 500px;
+   top: 80px;
+   width: 80px;
+   height: 120px;
+   background-color: Transparent;
+   border-color: Transparent;
 }
 
+#shoe {
+   position: absolute;
+   left: 80px;
+   top: 400px;
+   width: 80px;
+   height: 60px;
+   background-color: Transparent;
+   border-color: Transparent;
+}
+
+#light {
+   position: absolute;
+   left: 50px;
+   top: 10px;
+   width: 800px;
+   height: 200px;
+   background-color: Transparent;
+   border-color: Transparent;
+}
+#card{
+   position: absolute;
+   left: 756px;
+   top: 280px;
+   width: 50px;
+   height: 50px;
+   background-color: Transparent;
+   border-color: Transparent;
+}
+
+#coffee{
+   position: absolute;
+   left: 150px;
+   top: 180px;
+   width: 100px;
+   height: 50px;
+   background-color: Transparent;
+   border-color: Transparent;
+}
