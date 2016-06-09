@@ -9,6 +9,7 @@ $("#bananaman4").hide();
 $("#bananaman5").hide();
 $("#bananaman61").hide();
 
+
 $("#startpage").click(function() {
   $("#bananaman1").show();
   $("#bananaman2").hide();
@@ -144,6 +145,11 @@ $("#stage5button4u").click(function() {
   $("#bananaman4").hide();
    $("#bananaman5").hide();
 $("#bananaman61").hide();
+});
+
+
+$("#towel").click(function() {
+   alert("You got the TOWEL! Keep track of what you've got!")
 });
 
 
