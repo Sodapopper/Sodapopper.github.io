@@ -129,6 +129,7 @@ a.button:hover {
   position: absolute;
   left: 900px;
   top: 235px;
+   
 }
 
 #stage2button3d {
@@ -215,5 +216,18 @@ a.button:hover {
   position: absolute;
   left: 450px;
   top: 450px;
+}
+
+
+
+
+#towel {
+  position: absolute;
+  left: 500px;
+  top: 80px;
+  width: 80px;
+  height: 120px;
+  background-color:Transparent;
+  border-color:Transparent;
 }
 
